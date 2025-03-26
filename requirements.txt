@@ -1,0 +1,8 @@
+# install ffmpeg on system , if macos use brew install ffmpeg, if windows use choco install ffmpeg
+# install the following libraries using pip install -r requirements.txt
+openai-whisper==20240930
+transformers==4.50.0
+moviepy==1.0.3
+scenedetect==0.6.6
+torch==2.6.0
+opencv-python==4.11.0.86
