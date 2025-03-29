@@ -71,5 +71,3 @@ MIT License
 	•	PySceneDetect
 
 ---
-
-Would you like me to insert this into your `readme.md` file directly?
